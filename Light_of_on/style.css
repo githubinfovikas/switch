@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    background: #30336b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+
+}
+
+.main-heading h2{
+    margin-bottom: 20px;
+}
+
+button{
+    display:inline-block;
+    background:yellow;
+    color:rgb(234, 27, 27);
+    font-size: 15px;
+    font-weight: normal;
+    border-radius:3px;
+    transition:400ms;
+    text-decoration: none;
+    padding:10px;
+    z-index:100000;
+}
+
+/* img{
+    width:200px;
+} */
